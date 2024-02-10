@@ -12,7 +12,7 @@ The objective of the assignment is to produce a machine learning/statistical mod
 <br/>
 Make sure to install the above libraries and finally run the scripts
 
-# Datasets utilized
+# Data Preprocessing
 * **Row deletion**<br/><br/>
   The method of imputation is as the title describes it to be. Delete all samples which have missing feature values in the training data. Although the imputation method reduces the number of samples available for training, the method allows us to capture true, experimentally generated information provided by every feature in the dataset.
 * **Column deletion**<br/><br/>
